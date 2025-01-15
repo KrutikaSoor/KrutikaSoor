@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm an enthusiastic software engineer with experti
 - Automation Anywhere, UiPath, Mulesoft
 
 ### Frontend Development
-- React.js, HTML, CSS
+- React.js, HTML, CSS, Bootstrap
 
 ### APIs & Integrations
 - OpenAI, Weather API, CrewAI
